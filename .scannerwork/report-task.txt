@@ -1,0 +1,6 @@
+projectKey=Symfony_issues
+serverUrl=http://localhost:9000
+serverVersion=24.12.0.100206
+dashboardUrl=http://localhost:9000/dashboard?id=Symfony_issues
+ceTaskId=f9071924-0e7f-4384-b1bf-5b12f5587d9c
+ceTaskUrl=http://localhost:9000/api/ce/task?id=f9071924-0e7f-4384-b1bf-5b12f5587d9c
